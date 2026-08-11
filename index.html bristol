@@ -4,11 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta name="google-site-verification" content="YOUR_VERIFY_CODE_HERE" />
-  <meta name="description" content="Independent Bristol West bill pay guide: pay online, one-time payment, guest-style payment help, and phone support. Step-by-step instructions, FAQs, and payment options." />
+  <meta name="description" content="#1 trusted Bristol West bill pay guide: pay online, one-time payment, guest-style payment help, and phone support. Step-by-step instructions, FAQs, and payment options." />
   <meta name="keywords" content="Bristol West bill pay, pay Bristol West bill online, Bristol West quick pay, Bristol West guest payment, Bristol West one-time payment, pay Bristol West without login, Bristol West payment methods, Bristol West billing support" />
   <meta property="og:title" content="Bristol West Bill Pay | Pay Online, One-Time Payment & Support" />
   <meta property="og:description" content="A clear Bristol West bill pay guide with online payment steps, quick payment options, FAQs, and support information." />
-  <meta property="og:url" content="https://YOUR-DOMAIN-HERE/" />
+  <meta property="og:url" content="https://utilitybillhelp.github.io/bristolwestbillpay/" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://images.unsplash.com/photo-1554224155-6726b3ff858f?fit=crop&w=1200&q=80" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -16,7 +16,7 @@
   <meta name="twitter:description" content="Pay your Bristol West bill online, one-time, or with support help using this independent step-by-step guide." />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: 'unsafe-inline'; script-src 'self' https: 'unsafe-inline'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https: data:; frame-ancestors 'none'; base-uri 'self'; object-src 'none'" />
-  <link rel="canonical" href="https://YOUR-DOMAIN-HERE/" />
+  <link rel="canonical" href="https://utilitybillhelp.github.io/bristolwestbillpay/ " />
   <title>Bristol West Bill Pay | Pay Online, One-Time Payment & Support</title>
 
   <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'" />
@@ -727,9 +727,9 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "url": "https://YOUR-DOMAIN-HERE/",
+    "url": "https://utilitybillhelp.github.io/bristolwestbillpay/",
     "name": "Bristol West Bill Pay Guide",
-    "description": "Independent Bristol West bill payment guide with online steps, one-time payment information, FAQ support, and billing guidance.",
+    "description": "Bristol West bill payment guide with online steps, one-time payment information, FAQ support, and billing guidance.",
     "publisher": {
       "@type": "Organization",
       "name": "Utility Bill Help"
@@ -746,13 +746,13 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://YOUR-DOMAIN-HERE/"
+        "item": "https://utilitybillhelp.github.io/bristolwestbillpay/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Bristol West Bill Pay",
-        "item": "https://YOUR-DOMAIN-HERE/"
+        "item": "https://utilitybillhelp.github.io/bristolwestbillpay/"
       }
     ]
   }
