@@ -1,0 +1,45 @@
+# Ignore common OS and editor files
+.DS_Store
+Thumbs.db
+
+# Node / local dev
+node_modules/
+dist/
+build/
+.cache/
+.npm/
+.yarn/
+
+# Static site generators
+_site/
+public/
+
+# Logs and env
+*.log
+.env
+.env.*
+
+# OS
+.Spotlight-V100
+.Trashes
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Mac
+*.DS_Store
+
+# Netlify/CI
+.netlify/
+
+# SASS / cache
+.sass-cache/
+
+# Misc
+coverage/
+reports/
+
+# Sensitive or development-only
+secret-*
